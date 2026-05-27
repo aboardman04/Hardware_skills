@@ -1,6 +1,6 @@
 
 # Tutorials on Hardware and Mechanical Skills
-1. [Wire stripping with normal tool](https://www.youtube.com/watch?v=fDo-KbKRd4A), [with stripmaster tool](https://www.youtube.com/watch?v=z0-0BqyOOh4)
+1. [Wire stripping](wire_stripping.md)
 2. [Makign Molex Connectors](link)
 3. [Heat sets in 3D prints](https://www.youtube.com/watch?v=P7nHyI1TwKY)
 4. [Threading](link)
