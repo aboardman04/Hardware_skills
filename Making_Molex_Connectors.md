@@ -32,13 +32,13 @@
 </details>
   
 2. ## Video Tutorials
-   * [Crimping Tutorial](https://www.youtube.com/watch?v=L8Mfvv1PqpY)
-   * [Installing into housing](https://www.youtube.com/watch?v=h4xdpWOKBr0)
+* [Crimping Tutorial](https://www.youtube.com/watch?v=L8Mfvv1PqpY)
+* [Installing into housing](https://www.youtube.com/watch?v=h4xdpWOKBr0)
 3. ## Tips and Tricks
-	  * Follow the way the wire wants to orient itself before crimping and setting the power conductors into the plastic housing, to avoid unnecisary torque on wires.
-    * When crimping make sure only the prongs that will hold the conductor and the insulator are within the machine, make sure to avoid crushing other parts of the connector which are essential for it fitting into the plasting housing.
-    * The male connector will attatch to the male (plug) housing and the female will connect to the female(receptical) housing. Cross check this with the specific Molex kit you have, they may switch which part is deignated as female and male.
-    * Make sure the wire is completely togther, none of it has freyed or been cut from stripping the wire, make sure all parts of the wire are straigt within the connector before crimping.
-    * The crimpers RIF has allow both insulator and conductor tabs to be crimped at the same time. Alight the pin correctly in the crimper with the conducting pin on the slightly elivated portion of the crimper, close crimper slowly, but not all the way, just untill you hear a click indicating the crimper is locked. Then thread the wire into place making sure it does not frey, and crimp fully once the wire is in place.
-    * After crimping make sure to give it a tug to make sure all connections are secure
-    * Make sure you pick the right gauge to use on the crimpter (usually 20)  
+* Follow the way the wire wants to orient itself before crimping and setting the power conductors into the plastic housing, to avoid unnecisary torque on wires.
+* When crimping make sure only the prongs that will hold the conductor and the insulator are within the machine, make sure to avoid crushing other parts of the connector which are essential for it fitting into the plasting housing.
+* The male connector will attatch to the male (plug) housing and the female will connect to the female(receptical) housing. Cross check this with the specific Molex kit you have, they may switch which part is deignated as female and male.
+* Make sure the wire is completely togther, none of it has freyed or been cut from stripping the wire, make sure all parts of the wire are straigt within the connector before crimping.
+* The crimpers RIF has allow both insulator and conductor tabs to be crimped at the same time. Alight the pin correctly in the crimper with the conducting pin on the slightly elivated portion of the crimper, close crimper slowly, but not all the way, just untill you hear a click indicating the crimper is locked. Then thread the wire into place making sure it does not frey, and crimp fully once the wire is in place.
+* After crimping make sure to give it a tug to make sure all connections are secure.
+* Make sure you pick the right gauge to use on the crimpter (probaly 20 gauge).  
