@@ -6,5 +6,5 @@
 4. [Threading](link)
 5. [Soldering](https://www.youtube.com/watch?v=6rmErwU5E-k&t=256s)
 6. [Electric cabinet wiring]()
-7. [Fusion360](https://www.youtube.com/playlist?list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr)
+7. [Fusion360](fusion360.md)
 8. [Circuitry Basics](link)
