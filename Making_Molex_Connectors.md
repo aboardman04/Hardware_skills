@@ -32,7 +32,7 @@
 </details>
   
 2. ## Video Tutorials
-* [Crimping Tutorial](https://www.youtube.com/watch?v=L8Mfvv1PqpY)
+* [Crimping tutorial](https://www.youtube.com/watch?v=L8Mfvv1PqpY)
 * [Installing into housing](https://www.youtube.com/watch?v=h4xdpWOKBr0)
 3. ## Tips and Tricks
 * #### Wire Prep
